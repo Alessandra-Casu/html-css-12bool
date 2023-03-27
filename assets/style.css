@@ -1,0 +1,19 @@
+.row{
+    background-color: blue;
+    min-height: 50px;
+}
+ 
+
+
+/*Selettore [attribute*=value]*/
+.contents{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    justify-content: center;
+    align-content: center;
+    border: solid .2px lightgrey;
+}
+
